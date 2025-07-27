@@ -1,8 +1,1 @@
-fastapi
-uvicorn[standard]
-databases[sqlite]
-sqlalchemy
-httpx
-openai
-gradio
-python-dotenv
+colorama==0.4.6
